@@ -1,0 +1,33 @@
+.navbar {
+    padding: 1rem;
+    background-color: whitesmoke;
+    
+}
+
+
+.footer {
+    text-align: center;
+    color: black;
+}
+
+.btn-primary:hover {
+    background-color:green;
+    color:whitesmoke;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+} 
+
+.lead {
+    color: black;
+}
